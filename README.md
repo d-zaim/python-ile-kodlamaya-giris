@@ -1,2 +1,1 @@
-# python_giris
- 
+# Python Giriş Ders Notları
