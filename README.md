@@ -35,5 +35,5 @@
 ## 7. Ders: Object Oriented Programming - Minik bir Giriş
 - <a href="7. Ders - Object Oriented Programming Giriş\7. Object Oriented Programming Giriş.ipynb">Object Oriented Programming - Ders Notu</a>
 
-## 7. Ders: Intermediate Python
+## 8. Ders: Intermediate Python
 - <a href="8. Ders - Intermediate Python\8. Intermediate Python.ipynb">Intermediate Python - Ders Notu</a>
