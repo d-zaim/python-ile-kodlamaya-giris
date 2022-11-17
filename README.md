@@ -1,9 +1,9 @@
 # Python ile Kodlamaya Giriş Ders Notları
 
 
-Harita:
+Ders haritası için <a href="https://www.figma.com/file/kE6XMIJGFWenBzmFSKkWh4/Data-Science-Roadmap?node-id=0%3A1&t=Y0hTqVwJgJkq5Few-1">tıklayınız</a>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FkE6XMIJGFWenBzmFSKkWh4%2FData-Science-Roadmap%3Fnode-id%3D0%253A1%26t%3DY0hTqVwJgJkq5Few-1" allowfullscreen></iframe>
+
 
 ## 1. Ders: Kodlamaya Giriş - Veri Türleri
 - <a href="1. Ders - Giriş/1. Kodlamaya Giriş - Veri Türleri.ipynb">Temel Veri Türleri - Ders Notu</a>
