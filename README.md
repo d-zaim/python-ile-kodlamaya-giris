@@ -37,7 +37,7 @@ Ders haritası için <a href="https://www.figma.com/file/kE6XMIJGFWenBzmFSKkWh4/
 - <a href="6. Ders - Veri Yapıları\6.3. Veri Yapıları - Sözlükler (Data Structures - Dictionaries).ipynb">Veri Yapıları (sözlükler/dictionaries) - Ders Notu</a>
 - <a href="6. Ders - Veri Yapıları\6.4. Veri Yapıları - Kümeler (Data Structures-Sets).ipynb">Veri Yapıları (kümeler/sets) - Ders Notu</a>
 
-## 7. Ders: Object Oriented Programming - Minik bir Giriş
+## 7. Ders: Object Oriented Programming - Kısa bir Giriş
 - <a href="7. Ders - Object Oriented Programming Giriş\7. Object Oriented Programming Giriş.ipynb">Object Oriented Programming - Ders Notu</a>
 
 ## 8. Ders: Intermediate Python
